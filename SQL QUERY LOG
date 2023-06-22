@@ -1,0 +1,23 @@
+# Creating the SQL tables:
+
+CREATE TABLE air_pollution (
+    latitude DECIMAL(6,4),
+    longitude DECIMAL(6,4),
+    aqi INT,
+    co DECIMAL(8,2),
+    no DECIMAL(8,2),
+    no2 DECIMAL(8,2),
+    o3 DECIMAL(8,2),
+    so2 DECIMAL(8,2),
+    pm2_5 DECIMAL(8,2),
+    pm10 DECIMAL(8,2),
+    nh3 DECIMAL(8,2),
+    dt TIMESTAMP
+);
+
+CREATE TABLE cities (
+    country varchar(50),
+	city varchar(50),
+	latitude DECIMAL(6,4)
+	longitude DECIMAL(6,4)
+);
