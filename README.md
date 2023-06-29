@@ -1,4 +1,5 @@
 Air Pollution Project
+
 Project Summary
 The main goal was to analyze the historical air pollution data in Europe's capital cities from 2021 January to 2023 June (when this project started)..
 
