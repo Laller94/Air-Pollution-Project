@@ -1,6 +1,7 @@
 Air Pollution Project
 
 Project Summary
+
 The main goal was to analyze the historical air pollution data in Europe's capital cities from 2021 January to 2023 June (when this project started)..
 
 Skills Used
@@ -39,4 +40,4 @@ I wanted to make the dashboard interactive in order to drill into specific areas
 Key Takeaways from the Data
 
 
-Of course, properties in LA are expensive, but if you are able to purchase one as an investment, the conclusions drawn here provide valuable insights!
+
