@@ -24,9 +24,9 @@ The cities' data was also scraped from https://www.learnit3d.fi using BeautifulS
 
 Importing the Dataset to PostgrSQL
 
-First I created the following tables:
--air_pollution
--cities
+First I created the following tables:    
+-air_pollution    
+-cities    
 
 For the SQL table creation I usually use pgAdmin4, and for loading the data into the tables I use Bash (Yes, I know I could have also done it in pgAdmin4, but that's how I got used to it).
 
