@@ -6,9 +6,9 @@ The main goal was to analyze the historical air pollution data in Europe's capit
 
 Skills Used
 
-Bash for data cleaning
-SQL to analyze the data
-Power BI for visualization
+Bash for data cleaning    
+SQL to analyze the data    
+Power BI for visualization    
 
 Desired Insights
 
