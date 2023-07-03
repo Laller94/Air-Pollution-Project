@@ -12,10 +12,10 @@ Power BI for visualization
 
 Desired Insights
 
-Which city was the most polluted to live in from 2021 to 2023?
-Which city had the healthiest air to breath from 2021 to 2023?
-Rank the capital cities by the PM 2.5. and PM 10.
-Which season has the highest and lowest pollution levels across Europe?
+Which city was the most polluted to live in from 2021 to 2023?    
+Which city had the healthiest air to breath from 2021 to 2023?    
+Rank the capital cities by the PM 2.5. and PM 10.    
+Which season has the highest and lowest pollution levels across Europe?    
 
 Preparing the Project Data
 
