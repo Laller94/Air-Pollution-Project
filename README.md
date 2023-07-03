@@ -31,7 +31,7 @@ First I created the following tables:
 For the SQL table creation I usually use pgAdmin4, and for loading the data into the tables I use Bash (Yes, I know I could have also done it in pgAdmin4, but that's how I got used to it).
 
 
-Creating the Visualization
+Creating the Visualization    
 My goal was to create insights where one can compare any city he/she likes to and also change the dates for his/her liking.
 I also didn't want to overcomplicate things, and tried to keep it simple so anyone can make conclusions from the dashboard easily.
 I wanted to make the dashboard interactive in order to drill into specific areas, months, years, etc.
