@@ -45,29 +45,29 @@ Given the data the most polluted city from 2021 until now is Paris according to 
 The least polluted city in 2021 is Reykjavik, in 2022 it is Stockholm, and in 2023 so far still Stockholm.
 For the seasonal pollution it is spring that has a worse pollution than other seasons, but if we only count months February and March had the most pollution.    
 Ranking the the cities by PM 2.5:
-2021:
+2021:    
 1. Paris
 2. Bucharest
 3. Valletta
-2022:
+2022:    
 1. Paris
 2. Bucharest
 3. Rome
-2023:
+2023:    
 1. Paris
 2. Bucharest
 3. Rome
 
 Ranking the the cities by PM 10:
-2021:
+2021:    
 1. Valletta
 2. Paris
 3. Bucharest
-2022:
+2022:    
 1. Paris
 2. Valletta
 3. Bucharest
-2023:
+2023:    
 1. Paris
 2. Bucharest
 3. Valletta
