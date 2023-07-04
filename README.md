@@ -78,4 +78,6 @@ Ranking the the cities by PM 10:
 2. Bucharest    
 3. Valletta    
 
+The least polluted season by AQI is the summer, followed by the autumn with only a little difference. The least polluted month in 2021 was May and in 2022 it was September.
+
 PM.: Please keep in mind that the data for 2023 is not complete, I will add the rest of it later this year.
