@@ -49,11 +49,13 @@ Ranking the the cities by PM 2.5:
 2021:    
 1. Paris    
 2. Bucharest    
-3. Valletta    
+3. Valletta
+
 2022:    
 1. Paris    
 2. Bucharest    
-3. Rome    
+3. Rome
+
 2023:    
 1. Paris    
 2. Bucharest    
@@ -64,11 +66,13 @@ Ranking the the cities by PM 10:
 2021:    
 1. Valletta    
 2. Paris    
-3. Bucharest    
+3. Bucharest
+ 
 2022:    
 1. Paris    
 2. Valletta    
-3. Bucharest    
+3. Bucharest
+  
 2023:    
 1. Paris    
 2. Bucharest    
