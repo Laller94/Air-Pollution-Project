@@ -40,7 +40,7 @@ I wanted to make the dashboard interactive in order to drill into specific areas
 Key Takeaways from the Data
 
 Northern cities have lower air pollution.            
-The PM2.5 and PM10 values are almost at an identical level.
+The PM2.5 and PM10 values are almost at an identical level, compared to each other.
 Given the data the most polluted city from 2021 until now is Paris according to the AQI Index and PM levels.                    
 The least polluted city in 2021 is Reykjavik, in 2022 it is Stockholm, and in 2023 so far still Stockholm.
 For the seasonal pollution it is spring that has a worse pollution than other seasons, but if we only count months February and March had the most pollution.    
