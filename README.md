@@ -6,6 +6,8 @@ The primary objective of this project was to conduct an extensive analysis of hi
 
 Skills Applied:
 
+-Python for getting the raw data.
+
 -Bash for comprehensive data cleaning.
 
 -SQL for data analysis and querying.
