@@ -7,7 +7,9 @@ The primary objective of this project was to conduct an extensive analysis of hi
 Skills Applied:
 
 -Bash for comprehensive data cleaning.
+
 -SQL for data analysis and querying.
+
 -Power BI for data visualization and presentation.
 
 Desired Insights
