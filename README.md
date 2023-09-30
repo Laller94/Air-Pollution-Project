@@ -46,7 +46,7 @@ Northern European cities consistently exhibited lower levels of air pollution.
 PM2.5 and PM10 levels closely correlated throughout the study.
 Based on the AQI Index and PM levels, Paris consistently ranked as the most polluted city from 2021 to the present.
 The cleanest city in 2021 was Reykjavik, followed by Stockholm in 2022 and 2023 (to date).
-Spring exhibited the highest pollution levels among the seasons, with February and March being the most polluted months.
+Early spring and late winter exhibited the highest pollution levels among the seasons, with February and March being the most polluted months.
 
 Ranking the the cities by PM 2.5:
 
