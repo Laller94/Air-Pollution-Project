@@ -1,3 +1,5 @@
+
+
 Project Title: Air Pollution Analysis in European Capital Cities (2021-2023)
 
 Project Summary:
@@ -86,5 +88,5 @@ Seasonal Insights:
 
 The summer season consistently registered the lowest AQI levels, closely followed by autumn. May in 2021 and September in 2022 emerged as the months with the least pollution.
 
-Note: Please bear in mind that the data for 2023 is not yet complete, and additional updates will be incorporated later this year to ensure the project's completeness and accuracy.
+Note: Please bear in mind that the data for 2023 is not yet complete, and additional updates will be incorporated in 2024 to ensure the project's completeness and accuracy.
 The least polluted season by AQI is the summer, followed by the autumn with only a little difference. The least polluted month in 2021 was May and in 2022 it was September.
