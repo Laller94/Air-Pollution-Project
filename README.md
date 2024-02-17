@@ -90,4 +90,5 @@ The summer season consistently registered the lowest AQI levels, closely followe
 
 Note: Please bear in mind that the data for 2023 is not yet complete, and additional updates will be incorporated in 2024 to ensure the project's completeness and accuracy.
 The least polluted season by AQI is the summer, followed by the autumn with only a little difference. The least polluted month in 2021 was May and in 2022 it was September.
+
 *I am going to update this project as I have aquired more data and currently working on automating the dataload.*
